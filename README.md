@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working with predictive models / MLOps in healthcare sector at [Robô Laura](https://www.laura-br.com/en/)
 
-- 🌱 Master’s student of Applied Computing (Intelligent Systems and Logic) at [PPGCA-UTFPR](http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/english)
-
 - 💬 Ask me about **machine learning, python, MLOps**
 
 - 📫 How to reach me **eng.cichelero@gmail.com**
