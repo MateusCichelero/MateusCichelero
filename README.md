@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Cichelero</h1>
 <h3 align="center">Engineer. Passionate about learning and applying data science to improve people’s lives.</h3>
 
-- 🔭 I’m currently working with predictive models / MLOps in healthcare sector at [Munai Health](https://munai.com.br/#)
+- 🔭 I’m currently working with predictive models / MLOps as a ML Engineer at [phData](https://phdata.io)
 
 - 💬 Ask me about **machine learning, python, MLOps**
 
